@@ -1,11 +1,9 @@
 ---
-name: Bug report
-about: Report incorrect behaviour in the Python pipeline, ML model, or simulation
-  setup
-title: ''
-labels: ''
+name: 🐛 Bug Report
+about: Report incorrect behaviour in the Python pipeline, ML model, or simulation setup
+title: "[BUG] <short description>"
+labels: bug
 assignees: ''
-
 ---
 
 ## Bug Description

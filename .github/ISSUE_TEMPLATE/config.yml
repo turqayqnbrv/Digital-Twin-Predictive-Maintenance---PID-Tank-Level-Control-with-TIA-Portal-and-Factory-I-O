@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/turqayqnbrv/Digital-Twin-Predictive-Maintenance---PID-Tank-Level-Control-with-TIA-Portal-and-Factory-I-O/security/advisories/new
+    about: Please report security vulnerabilities privately via GitHub's security advisory feature — do not open a public issue.
+  - name: 📖 Siemens TIA Portal Documentation
+    url: https://support.industry.siemens.com/cs/document/109745954
+    about: Official Siemens documentation for TIA Portal and S7-1500.
+  - name: 🏭 Factory I/O Documentation
+    url: https://docs.factoryio.com
+    about: Official Factory I/O documentation and tutorials.
+  - name: 🐍 python-snap7 Documentation
+    url: https://python-snap7.readthedocs.io
+    about: Documentation for the python-snap7 S7 communication library.
