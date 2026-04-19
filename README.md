@@ -2,8 +2,7 @@
 ### Baku Higher Oil School — Process Control Course Project
 
 > **Automatic Tank Level Control** using a Siemens S7-1500 PLC, Factory I/O digital twin, WinCC HMI, Python data logging, and a Random Forest predictive maintenance engine.
-
-**Team:** Turgay Ganbarov · Elmar Salimov · Fateh Mammadli · Avaz Asgarov  
+  
 **Supervisor:** Nijat Hasanov  
 **Date:** April 2026
 
@@ -259,4 +258,3 @@ Siemens S7-1500  ──►  Factory I/O  ──►  Python Snap7  ──►  CSV
 ```
 
 > Built with ❤️ in Baku, Azerbaijan.  
-> Turgay Ganbarov · Elmar Salimov · Fateh Mammadli · Avaz Asgarov
